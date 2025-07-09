@@ -1,0 +1,8 @@
+{
+  "name": "smtp-vercel",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "nodemailer": "^7.0.5"
+  }
+}
